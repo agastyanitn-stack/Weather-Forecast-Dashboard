@@ -26,7 +26,3 @@
 <details open><summary>Python:</summary> Used for developing custom scripts and algorithms that are used to process and analyze the weather data. The project also makes use of various Python libraries such as Pandas and Matplotlib for data analysis and visualization purposes.</details>
 <hr>
 
-<h3>:house: Data Wizards Members </h3>
-<hr>
-
-
